@@ -1,0 +1,8 @@
+{
+  "input_folder": "input_files",
+  "traffic_column": "Traffic",
+  "throughput_column": "Throughput",
+  "latency_column": "Latency",
+  "log_file": "kpi_health.log",
+  "output_file": "output/kpi_summary.xlsx"
+}
